@@ -1,6 +1,5 @@
 module github.com/ossf-tests/scorecard-depdiff
 
-
 go 1.16
 
 require (
@@ -13,4 +12,3 @@ require (
 	github.com/shurcooL/githubv4 v0.0.0-20210725200734-83ba7b4c9228
 	gocloud.dev v0.25.0
 	gopkg.in/yaml.v2 v2.4.0
-)
